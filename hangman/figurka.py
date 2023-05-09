@@ -83,4 +83,4 @@ hangman = {
 }
 
 
-jmeno = "jakub"
+meno = "jakub"
