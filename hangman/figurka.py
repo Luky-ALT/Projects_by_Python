@@ -1,4 +1,4 @@
-#toto je sobor figurka.py
+#toto je subor figurka.py
 
 hangman = {
     0: """
